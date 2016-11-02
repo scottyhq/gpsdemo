@@ -13,6 +13,9 @@ Introduction to GPS time series analysis:
 to run ipython notebook in this directory:
 ------------------
 1) Install Miniconda (http://conda.pydata.org/miniconda.html)
+
 2) conda env create -f gpsdemo.yml
+
 3) source activate gpsdemo
+
 4) jupyter notebook
