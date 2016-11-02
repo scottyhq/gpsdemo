@@ -18,4 +18,6 @@ to run ipython notebook in this directory:
 
 3) source activate gpsdemo
 
+5) git clone https://github.com/scottyhq/gpsdemo.git
+
 4) jupyter notebook
